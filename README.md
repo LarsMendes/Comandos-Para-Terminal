@@ -14,7 +14,7 @@ cd -: Volta para o último diretório acessado.
 
 ## 📋 Listagem de Arquivos e Diretórios
 ```
-ls : Lista arquivos e diretórios no diretório atual;
+ls : Lista arquivos e diretórios no diretório atual.
 ls -a: Exibe todos os arquivos, incluindo os ocultos.
 ls -l: Exibe delhas (como permissões, proprietário, tamanho) de cada arquivo.
 ls -lh: Lista arquivos em formato legível (em KB, MB, etc.).
