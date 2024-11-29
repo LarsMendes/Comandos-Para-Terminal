@@ -1,7 +1,8 @@
 
 # Comandos para Terminal: Vocabulário de Navegação e Manipulação de Arquivos
 
-O compilado de comandos abaixo foi escrito para facilitar o aprendizado durante sua jornada no estudo de programação e versionamento de código. Confira também os arquivos a seguir:
+
+O compilado de comandos abaixo foi escrito para facilitar o aprendizado durante sua jornada no estudo de programação e versionamento de código. Confira também abaixo:
 
 
 ## 🧭 Comandos de Navegação
